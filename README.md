@@ -42,27 +42,9 @@ Tools:
 ![Git](https://img.shields.io/bad ge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-![JIRA](https://img.shie lds.io/badge/-JIRA-0052CC?style=flat-square&logo=jira)
+![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira)
 
 IDEs:
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
-
-## EMiyahira - atualizado em 15Mai2022
-Sou programador da linha ERP - Datasul - Progress
-<div>
-
-<div>
-
-<img height="170em" src = "https://github-readme-stats.vercel.app/api?username=EMiyahira&show_icons=true&theme=synthwave"/> 
-
-<img height="170em" style="margin: 0 16px 0 90px" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=EMiyahira&&layout=compact&hide=shell&theme=dark"/>
-</div>
- 
-<div style="display: inline_block"></div>
-<img align="center" alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-<img align="center" alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
-<img align="center" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> 
-<img align="center" alt="Progress" src="https://img.shields.io/badge/progress-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-</div>
