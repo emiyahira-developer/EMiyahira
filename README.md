@@ -13,7 +13,7 @@ ____
 Here are some of the technologies and tools I use work:
 
 ERP:
-![TotvsDatasul]([https://img.shields.io/badge/-Progress-007396?style=flat-square&logo=Progress](https://img.shields.io/badge/-Totvs-007396?style=flat-square&logo=Totvs))
+![TotvsDatasul](https://img.shields.io/badge/-Totvs-007396?style=flat-square&logo=Totvs)
 
 Backend:
 ![Progress](https://img.shields.io/badge/-Progress-007396?style=flat-square&logo=Progress)
