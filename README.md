@@ -12,12 +12,16 @@ ____
 
 Here are some of the technologies and tools I use work:
 
+ERP:
+![Totvs Datasul]([https://img.shields.io/badge/-Progress-007396?style=flat-square&logo=Progress](https://img.shields.io/badge/-Totvs-007396?style=flat-square&logo=Totvs))
+
 Backend:
 ![Progress](https://img.shields.io/badge/-Progress-007396?style=flat-square&logo=Progress)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
 Frontend
+![Progress](https://img.shields.io/badge/-Progress-007396?style=flat-square&logo=Progress)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
